@@ -2,7 +2,7 @@
   "name": "@overtheairbrew/homebrew-plugin-pid-logic",
   "version": "0.0.0",
   "description": "",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
   "files": [
     "dist"
   ],
